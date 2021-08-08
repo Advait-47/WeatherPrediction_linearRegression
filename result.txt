@@ -1,0 +1,6 @@
+0.97354 'tmin', 'tmax'
+0.99379 'hmdy','hmin','hmax','gbrd','tmin','tmax'
+0.99371 'hmdy','hmin','hmax','gbrd','tmin','tmax' w/o outlier
+0.99371 'hmdy','hmin','hmax','gbrd','tmin','tmax' w/o outlier
+0.99371 'hmdy','hmin','hmax','stp','gbrd','tmin','tmax' w/o outlier
+0.8925  'hmdy','hmin','hmax','stp','gbrd' w/o outlier
